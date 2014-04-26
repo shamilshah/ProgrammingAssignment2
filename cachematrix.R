@@ -1,6 +1,6 @@
 ##Coursera - R Programming
 ##Programming Assignment 2
-##April 2012
+##April 2014
 
 ## The purpose of the function below are to enable caching of the inverse matrix
 ## to avoid re-calculating the inverse of the matrix each time it is required
